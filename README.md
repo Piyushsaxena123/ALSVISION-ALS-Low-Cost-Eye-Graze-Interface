@@ -31,39 +31,56 @@
 ---
 
 ## 📂 Project Structure
-├── screens/ # Accessibility screens (Food, Water, Emergency)
-├── calibration_data/ # Saved data for 9-point calibration
-├── calibration_ui/ # PyQt5-based calibration interface
-├── evaluation_summary/ # Results from system usability testing
-├── gaze_tracker/ # Gaze detection logic and smoothing algorithm
-├── main_interface/ # Main navigation and interaction screen
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── screens/ # Accessibility screens (Food, Water, Emergency)<br>
+├── calibration_data/ # Saved data for 9-point calibration<br>
+├── calibration_ui/ # PyQt5-based calibration interface<br>
+├── evaluation_summary/ # Results from system usability testing<br>
+├── gaze_tracker/ # Gaze detection logic and smoothing algorithm<br>
+├── main_interface/ # Main navigation and interaction screen<br>
+├── requirements.txt # Python dependencies<br>
+├── README.md # Project documentation<br>
 
 ---
 
-🖥️ How to Run & Download
-1. Download the Project
+````markdown
+## 🖥️ How to Run & Download
+
+### 1\. Download the Project
+
 You can clone this repository directly from GitHub:
 
-Bash
-
+```bash
 git clone [https://github.com/Piyushsaxena123/ALSVISION-ALS-Low-Cost-Eye-Graze-Interface.git](https://github.com/Piyushsaxena123/ALSVISION-ALS-Low-Cost-Eye-Graze-Interface.git)
 cd ALSVISION-ALS-Low-Cost-Eye-Graze-Interface
-2. Install dependencies
-Bash
+```
 
+### 2\. Install dependencies
+
+```bash
 pip install -r requirements.txt
-3. Run Calibration (First Time Only)
+```
+
+### 3\. Run Calibration (First Time Only)
+
 To teach the system your eye range, run the calibration tool and follow the red dot:
 
-Bash
-
+```bash
 python calibration_ui.py
-4. Start the Interface
+```
+
+### 4\. Start the Interface
+
 Launch the main application:
 
-Bash
-
+```bash
 python main_interface.py
-<div align="center"> <p>Made with ❤️ by <a href="https://www.google.com/search?q=https://github.com/Piyushsaxena123">Piyush Saxena</a></p> </div>
+```
+
+-----
+
+\<div align="center"\>
+\<p\>Made with ❤️ by \<a href="https://www.google.com/search?q=https://github.com/Piyushsaxena123"\>Piyush Saxena\</a\>\</p\>
+\</div\>
+
+```
+```
