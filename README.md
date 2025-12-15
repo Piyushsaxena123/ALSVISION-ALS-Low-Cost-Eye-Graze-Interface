@@ -77,10 +77,10 @@ python main_interface.py
 ```
 
 -----
+🤝 Contributing
+Contributions are welcome! Please fork this repository and submit a pull request.
 
-\<div align="center"\>
-\<p\>Made with ❤️ by \<a href="https://www.google.com/search?q=https://github.com/Piyushsaxena123"\>Piyush Saxena\</a\>\</p\>
-\</div\>
+Author: Piyush Saxena
 
 ```
 ```
